@@ -1,4 +1,4 @@
-I'm Mega!
+# Hello and Welcome, I'm Mega!
 
 :mortar_board: Graduated with MS Computer Science on Summer 2020, ex Econ Major
 
@@ -9,6 +9,7 @@ I'm Mega!
 :hatched_chick: Startup Environment experience, used to fast paced, can-do, initiative taker
 
 - 🔭 Currently working on 
+  * :open_file_folder: Building apps
   * :bar_chart: Causal Modelling on COVID
   * :computer: Practicing Data Structures and Algorithms
   
@@ -22,8 +23,8 @@ I'm Mega!
   * ANY cool projects please reach out!
 
 - :mag: Looking for
-  * Mentor/Teacher
-  * Peers to do cool projects with
+  * :four_leaf_clover: Mentor/Teacher
+  * :thought_balloon: Peers to do cool projects with or to chat about tech
   
 - ⚡ Hobbies
   * :stew: Cooking and Food
