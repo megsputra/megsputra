@@ -9,8 +9,8 @@
 :hatched_chick: Startup Environment experience, used to fast paced, can-do, initiative taker
 
 - 🔭 Currently working on 
-  * :open_file_folder: Building apps
-  * :bar_chart: Causal Modelling on COVID
+  * :open_file_folder: Building random apps with friends
+  * :bar_chart: ![Causal Modelling on COVID](https://www.researchgate.net/lab/Applied-Artificial-Intelligence-Lab-Suchitra-Abel)
   * :computer: Practicing Data Structures and Algorithms
   
 - 🌱 I’m currently learning 
